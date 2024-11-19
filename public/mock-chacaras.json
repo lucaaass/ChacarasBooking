@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Chácara Paraíso",
+    "description": "Uma bela chácara com piscina e vista incrível.",
+    "price": 350,
+    "image": "/image/paraiso.png"
+  },
+  {
+    "id": 2,
+    "name": "Chácara Verde Vida",
+    "description": "Chácara aconchegante em meio à natureza.",
+    "price": 250,
+    "image": "/image/verde_vida.jfif"
+  },
+  {
+    "id": 3,
+    "name": "Chácara Recanto Feliz",
+    "description": "Espaço amplo com área para eventos e festas.",
+    "price": 400,
+   "image": "/image/recanto_feliz.jfif"
+  },
+  {
+    "id": 4,
+    "name": "Chácara Sol Nascente",
+    "description": "Ideal para finais de semana tranquilos.",
+    "price": 300,
+    "image": "/image/sol_nascente.jfif"
+  },
+  {
+    "id": 5,
+    "name": "Chácara Bela Vista",
+    "description": "Ambiente rústico com muito verde e animais.",
+    "price": 280,
+    "image": "/image/bela_vista.jfif"
+  },
+  {
+    "id": 6,
+    "name": "Chácara Refúgio dos Pássaros",
+    "description": "Lugar encantador com trilhas e lago natural.",
+    "price": 450,
+    "image": "/image/refugio.jfif"
+  },
+  {
+    "id": 7,
+    "name": "Chácara Primavera",
+    "description": "Charmosa com flores e árvores frutíferas.",
+    "price": 350,
+    "image": "/image/primavera.jfif"
+  },
+  {
+    "id": 8,
+    "name": "Chácara Campo dos Sonhos",
+    "description": "Amplo espaço para festas e eventos ao ar livre.",
+    "price": 500,
+    "image": "/image/campo.jfif"
+  },
+  {
+    "id": 9,
+    "name": "Chácara Pôr do Sol",
+    "description": "Vista espetacular do pôr do sol e piscina aquecida.",
+    "price": 600,
+    "image": "/image/por_do_sol.jfif"
+  },
+  {
+    "id": 10,
+    "name": "Chácara Oásis",
+    "description": "Refúgio perfeito para relaxar com a família.",
+    "price": 320,
+ "image": "/image/oasis.jfif"
+  }
+]
