@@ -6,7 +6,8 @@ import ListChacaras from './ListChacaras';
 function Home() {
   return (
     <div className="home">
-      <h1>ChácarasBooking</h1>
+      <div className='title'><h1>ChácarasBooking</h1></div>
+      
       <ListChacaras />
     </div>
   );

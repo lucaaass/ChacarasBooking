@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 
 function ReserveForm() {
   const { id } = useParams();
@@ -13,8 +13,12 @@ function ReserveForm() {
   };
 
   return (
+
     <div className="reserve-form">
-      <h1>Reserva para a Chácara {id}</h1>
+      <div>
+      <Link to="/" className="btn">Voltar</Link>
+      </div>
+      <h1>Reserva para a Chácara {id} </h1>
       <form onSubmit={handleSubmit}>
         <label>
           Nome:
